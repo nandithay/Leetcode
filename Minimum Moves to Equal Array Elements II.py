@@ -32,7 +32,6 @@
 # -109 <= nums[i] <= 109
 
 
-
 class Solution:
     def minMoves2(self, nums: list[int]) -> int:
         nums.sort()
